@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8a6ea928-77c6-436d-80dd-e47726fdaae3">
+  <producedTypes>
+    <objectType typeId="2c81a764-4b67-4649-9bec-e6e3738732ba" valueTypeId="75b2f03b-7184-4505-acef-897a9335c948"/>
+    <refType typeId="a6b9cfe7-bf41-4d1b-956b-028b12aa2a2c" valueTypeId="5de93d06-b4b4-4b53-9089-95c7a8e348c5"/>
+    <selectionType typeId="6303a7aa-95ce-46cd-a873-f8ec3ecd2b7b" valueTypeId="7c40aa8e-a6b4-4705-98bb-f830172411e4"/>
+    <listType typeId="2f5f328d-f672-4ebc-b50e-5ce174d710ce" valueTypeId="3c82012c-4a36-440f-9b67-167a32661ee0"/>
+    <managerType typeId="ea2025b0-ecc0-4b6f-8295-c68b600bdb24" valueTypeId="8bca8a43-ecc7-4c37-b515-32d17a120534"/>
+  </producedTypes>
+  <name>Увольнение</name>
+  <synonym>
+    <key>ru</key>
+    <value>Увольнение</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Увольнение.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Увольнение.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
