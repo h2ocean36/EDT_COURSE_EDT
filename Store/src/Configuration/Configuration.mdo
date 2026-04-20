@@ -45,5 +45,6 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
+  <documents>Document.Реализация</documents>
   <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
 </mdclass:Configuration>
